@@ -9,8 +9,8 @@ Thanks for visiting my GitHub profile. Be sure to follow me and have a great day
 const GoomyForLife = {
     FavouriteLanguage: "Python & Javascript",
     TotalSoftwares: 7 ,
-    Facebook: @hz.gooi,
-    Instagram: @hz.gooi,
+    Facebook: "@hz.gooi",
+    Instagram: "@hz.gooi",
     },
 };
 ```
