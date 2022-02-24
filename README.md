@@ -23,7 +23,7 @@ const GoomyForLife = {
   <summary>
       More Stats
   </summary>
-  <p align="center">
+  <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=GoomyForLife&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=GoomyForLife&theme=tokyonight">
   </p>
