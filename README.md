@@ -3,7 +3,7 @@ I'm **GoomyForLife**, a 16-year-old software developer. I like to code web appli
   
 Thanks for visiting my GitHub profile. Be sure to follow me and have a great day ahead!~
   
-<h2 align="left"> ✨ Details ✨</h2>
+<h2 align="center"> ✨ Details ✨</h2>
 
 ```js
 const GoomyForLife = {
@@ -15,15 +15,15 @@ const GoomyForLife = {
 };
 ```
   
-<h2 align="left"> 🚀 My Stats 🚀</h2>
-<p align="left">
+<h2 align="center"> 🚀 My Stats 🚀</h2>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoomyForLife&theme=tokyonight">
 </p>
 <details>
   <summary>
       More Stats
   </summary>
-  <p align="left">
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=GoomyForLife&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=GoomyForLife&theme=tokyonight">
   </p>
