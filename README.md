@@ -1,4 +1,4 @@
-## About Me <img align="right" src="https://avatars.githubusercontent.com/u/99566927?v=4" width="200" />
+## About Me <img align="right" src="https://avatars.githubusercontent.com/u/99566927?v=4" width="150" />
 I'm **GoomyForLife**, a 16-year-old software developer. I like to code web applications, games and bots. 
   
 Thanks for visiting my GitHub profile. Be sure to follow me and have a great day ahead!~
