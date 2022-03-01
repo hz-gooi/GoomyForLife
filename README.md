@@ -29,5 +29,4 @@ const GoomyForLife = {
   </p>
 </details>
   
-<!-- Last updated on Thu Feb 24 2022 06:18:58 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 24th February 2022.</i> ✨
+<i>Last updated on 1st March 2022.</i> ✨
