@@ -1,12 +1,12 @@
 ## About Me <img align="right" src="https://avatars.githubusercontent.com/u/99566927?v=4" width="150" />
-I'm **GoomyForLife**, a 16-year-old software developer. I like to code web applications, games and bots. 
+I'm **H.Z. Gooi**, a 18-year-old software developer. I like to code web applications, games and bots. 
   
 Thanks for visiting my GitHub profile. Be sure to follow me and have a great day ahead!~
   
 <h2 align="left"> ✨ Details ✨</h2>
 
 ```js
-const GoomyForLife = {
+const hz.gooi = {
     FavouriteLanguage: "Python & Javascript",
     TotalSoftwares: 7 ,
     Facebook: "@hz.gooi",
