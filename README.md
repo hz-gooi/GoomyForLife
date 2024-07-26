@@ -15,18 +15,4 @@ const hz.gooi = {
 };
 ```
   
-<h2 align="left"> 🚀 My Stats 🚀</h2>
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoomyForLife&theme=tokyonight">
-</p>
-<details>
-  <summary>
-      More Stats
-  </summary>
-  <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=GoomyForLife&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=GoomyForLife&theme=tokyonight">
-  </p>
-</details>
-  
 <i>Last updated on 26th July 2024.</i> ✨
